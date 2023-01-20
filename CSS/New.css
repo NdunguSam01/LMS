@@ -1,0 +1,19 @@
+body 
+{
+    text-align: center;
+}
+form 
+{
+    display: inline-block;
+    margin-top: 50px;
+    width: 70%;
+    align-items: center;
+}
+input
+{
+    width: 100px;
+}
+input[type=date]
+{
+    padding: 10px;
+}
